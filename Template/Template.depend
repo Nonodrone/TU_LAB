@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1710764544 source:c:\project\tu\projects\template\template\task1.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task10.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task11.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task12.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task2.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task3.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task4.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task5.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task6.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task7.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task8.c
+	<stdio.h>
+
+1710764543 source:c:\project\tu\projects\template\template\task9.c
+	<stdio.h>
+
+1710764456 source:c:\project\tu\projects\template\template\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Tasks.h"
+
+1710764228 c:\project\tu\projects\template\template\tasks.h
+
+1712414619 source:c:\users\slash\desktop\bpe\tu_2024_grp43-main\template\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Tasks.h"
+
+1712052377 c:\users\slash\desktop\bpe\tu_2024_grp43-main\template\tasks.h
+
+1712411843 source:c:\users\slash\desktop\bpe\tu_2024_grp43-main\template\task10.c
+	<stdio.h>
+	"Tasks.h"
+
+1712414373 source:c:\users\slash\desktop\bpe\tu_2024_grp43-main\template\task11.c
+	<stdio.h>
+	"Tasks.h"
+
+1712415745 source:c:\users\slash\desktop\bpe\tu_2024_grp43-main\template\task12.c
+	<stdio.h>
+	"Tasks.h"
+
+1712333359 source:c:\users\slash\desktop\bpe\tu_2024_grp43-main\template\task2.c
+	<stdio.h>
+	"Tasks.h"
+
+1712055144 source:c:\users\slash\desktop\bpe\tu_2024_grp43-main\template\task3.c
+	<stdio.h>
+	"Tasks.h"
+
+1712055660 source:c:\users\slash\desktop\bpe\tu_2024_grp43-main\template\task4.c
+	<stdio.h>
+	"Tasks.h"
+
+1712334278 source:c:\users\slash\desktop\bpe\tu_2024_grp43-main\template\task5.c
+	<stdio.h>
+	"Tasks.h"
+
+1712335100 source:c:\users\slash\desktop\bpe\tu_2024_grp43-main\template\task6.c
+	<stdio.h>
+	"Tasks.h"
+
+1712408053 source:c:\users\slash\desktop\bpe\tu_2024_grp43-main\template\task7.c
+	<stdio.h>
+	"Tasks.h"
+
+1712408212 source:c:\users\slash\desktop\bpe\tu_2024_grp43-main\template\task8.c
+	<stdio.h>
+	"Tasks.h"
+
+1712408353 source:c:\users\slash\desktop\bpe\tu_2024_grp43-main\template\task9.c
+	<stdio.h>
+	"Tasks.h"
+
+1712407777 source:c:\users\slash\desktop\bpe\tu_2024_grp43-main\template\task1.c
+	<stdio.h>
+	"Tasks.h"
+	<limits.h>
+
